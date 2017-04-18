@@ -9,7 +9,7 @@ We investigate the scaling of the Renyi entanglement entropies for a particle bi
 
 This repository includes all data and plotting scripts to generate the figures in https://arxiv.org/abs/1703.10587.  All data was generated via exact diagonalization https://github.com/DelMaestroGroup/tV_diagonalize
 
-#### PartitionSchematic (Figure 1)
+#### [PartitionSchematic (Figure 1)](https://github.com/DelMaestroGroup/PartEntFermions/tree/master/PartitionSchematic)
 
 <img src="https://github.com/DelMaestroGroup/PartEntFermions/blob/master/PartitionSchematic/particle_partition.png" width=300px>
 
