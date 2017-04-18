@@ -11,11 +11,25 @@ This repository includes all data and plotting scripts to generate the figures i
 
 #### PartitionSchematic (Figure 1)
 
-<img src="https://github.com/DelMaestroGroup/PartEntFermions/blob/master/PartitionSchematic/particle_partition.png" width=200px>
+<img src="https://github.com/DelMaestroGroup/PartEntFermions/blob/master/PartitionSchematic/particle_partition.png" width=300px>
 
 
 #### OneParticleEntanglementEntropies	(Figure 2)
+
+<img src="https://github.com/DelMaestroGroup/PartEntFermions/blob/master/OneParticleEntanglementEntropies/entropiesFigure.png" width=300px>
+
 #### FiniteSizeScaling	(Figure 3)
+
+<img src="https://github.com/DelMaestroGroup/PartEntFermions/blob/master/FiniteSizeScaling/finiteSizeScaling.png" width=300px>
+
 #### InteractionDependence	(Figure 4)
+
+<img src="https://github.com/DelMaestroGroup/PartEntFermions/blob/master/InteractionDependence/interactionDependence.png" width=300px>
+
 #### EntropyVsParticlePartitionSize	(Figure 5)
+
+<img src="https://github.com/DelMaestroGroup/PartEntFermions/blob/master/EntropyVsParticlePartitionSize/SvsN_choose_N.png" width=300px>
+
 #### DegeneracyEffect	(Figure 6)
+
+<img src="https://github.com/DelMaestroGroup/PartEntFermions/blob/master/DegeneracyEffect/degeneracyEffect.png?raw=true" width=300px>
