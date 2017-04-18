@@ -14,22 +14,22 @@ This repository includes all data and plotting scripts to generate the figures i
 <img src="https://github.com/DelMaestroGroup/PartEntFermions/blob/master/PartitionSchematic/particle_partition.png" width=300px>
 
 
-#### OneParticleEntanglementEntropies	(Figure 2)
+#### [OneParticleEntanglementEntropies	(Figure 2)](https://github.com/DelMaestroGroup/PartEntFermions/tree/master/OneParticleEntanglementEntropies)
 
 <img src="https://github.com/DelMaestroGroup/PartEntFermions/blob/master/OneParticleEntanglementEntropies/entropiesFigure.png" width=300px>
 
-#### FiniteSizeScaling	(Figure 3)
+#### [FiniteSizeScaling	(Figure 3)](https://github.com/DelMaestroGroup/PartEntFermions/tree/master/FiniteSizeScaling)
 
 <img src="https://github.com/DelMaestroGroup/PartEntFermions/blob/master/FiniteSizeScaling/finiteSizeScaling.png" width=300px>
 
-#### InteractionDependence	(Figure 4)
+#### [InteractionDependence	(Figure 4)](https://github.com/DelMaestroGroup/PartEntFermions/blob/master/InteractionDependence/interactionDependence.png)
 
 <img src="https://github.com/DelMaestroGroup/PartEntFermions/blob/master/InteractionDependence/interactionDependence.png" width=300px>
 
-#### EntropyVsParticlePartitionSize	(Figure 5)
+#### [EntropyVsParticlePartitionSize	(Figure 5)](https://github.com/DelMaestroGroup/PartEntFermions/tree/master/EntropyVsParticlePartitionSize)
 
 <img src="https://github.com/DelMaestroGroup/PartEntFermions/blob/master/EntropyVsParticlePartitionSize/SvsN_choose_N.png" width=300px>
 
-#### DegeneracyEffect	(Figure 6)
+#### [DegeneracyEffect	(Figure 6)](https://github.com/DelMaestroGroup/PartEntFermions/tree/master/DegeneracyEffect)
 
 <img src="https://github.com/DelMaestroGroup/PartEntFermions/blob/master/DegeneracyEffect/degeneracyEffect.png?raw=true" width=300px>
