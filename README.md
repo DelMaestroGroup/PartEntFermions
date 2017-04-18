@@ -1,4 +1,4 @@
-# Companion Data and Plotting Scripts for "Particle partition entanglement of one dimensional spinless fermions"
+# Particle partition entanglement of one dimensional spinless fermions
 
 ## arXiv URL: https://arxiv.org/abs/1703.10587
 
