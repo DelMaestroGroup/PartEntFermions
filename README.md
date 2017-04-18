@@ -11,7 +11,7 @@ This repository includes all data and plotting scripts to generate the figures i
 
 #### PartitionSchematic (Figure 1)
 
-![Particle bipartitions](PartEntFermions/PartitionSchematic/particle_partition.png)
+<img src="https://github.com/DelMaestroGroup/PartEntFermions/blob/master/PartitionSchematic/particle_partition.png" width=200px>
 
 
 #### OneParticleEntanglementEntropies	(Figure 2)
