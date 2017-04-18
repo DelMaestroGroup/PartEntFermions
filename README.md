@@ -1,6 +1,6 @@
 # Particle partition entanglement of one dimensional spinless fermions
 
-## arXiv URL: https://arxiv.org/abs/1703.10587
+## https://arxiv.org/abs/1703.10587
 
 ### Abstract:
 We investigate the scaling of the Renyi entanglement entropies for a particle bipartition of interacting spinless fermions in one spatial dimension. In the Tomonaga-Luttinger liquid regime, we calculate the second Renyi entanglement entropy and show that the leading order finite-size scaling is equal to a universal logarithm of the system size plus a non-universal constant. Higher-order corrections decay as power-laws in the system size with exponents that depend only on the Luttinger parameter. We confirm the universality of our results by investigating the one dimensional <math>t−V</math> model of interacting spinless fermions via exact-diagonalization techniques. The resulting sensitivity of the particle partition entanglement to boundary conditions and statistics points to its utility in future studies of quantum liquids.
