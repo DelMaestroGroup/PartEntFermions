@@ -10,6 +10,10 @@ We investigate the scaling of the Renyi entanglement entropies for a particle bi
 This repository includes all data and plotting scripts to generate the figures in https://arxiv.org/abs/1703.10587.  All data was generated via exact diagonalization https://github.com/DelMaestroGroup/tV_diagonalize
 
 #### PartitionSchematic (Figure 1)
+
+![Particle bipartitions](PartEntFermions/PartitionSchematic/particle_partition.png)
+
+
 #### OneParticleEntanglementEntropies	(Figure 2)
 #### FiniteSizeScaling	(Figure 3)
 #### InteractionDependence	(Figure 4)
