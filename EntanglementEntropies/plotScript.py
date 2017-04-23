@@ -8,7 +8,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib import gridspec
 
-with plt.style.context('IOP_large.mplstyle2'):
+with plt.style.context('../IOP_large.mplstyle2'):
 
 #Top Plot: One Particle Entanglement entropy dependence on the interaction potential
 
