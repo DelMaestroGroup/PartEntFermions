@@ -14,7 +14,7 @@ This repository includes all data and plotting scripts to generate the figures i
 <img src="https://github.com/DelMaestroGroup/PartEntFermions/blob/master/PartitionSchematic/particle_partition.png" width=300px>
 
 
-#### [OneParticleEntanglementEntropies	(Figure 2)](https://github.com/DelMaestroGroup/PartEntFermions/tree/master/EntanglementEntropies)
+#### [EntanglementEntropies (Figure 2)](https://github.com/DelMaestroGroup/PartEntFermions/tree/master/EntanglementEntropies)
 
 <img src="https://github.com/DelMaestroGroup/PartEntFermions/blob/master/EntanglementEntropies/entanglementEntropies.png" width=300px>
 
@@ -22,14 +22,14 @@ This repository includes all data and plotting scripts to generate the figures i
 
 <img src="https://github.com/DelMaestroGroup/PartEntFermions/blob/master/FiniteSizeScaling/finiteSizeScaling.png" width=300px>
 
-#### [InteractionDependence	(Figure 4)](https://github.com/DelMaestroGroup/PartEntFermions/blob/master/InteractionDependence/interactionDependence.png)
+#### [InteractionDependence (Figure 4)](https://github.com/DelMaestroGroup/PartEntFermions/blob/master/InteractionDependence/interactionDependence.png)
 
 <img src="https://github.com/DelMaestroGroup/PartEntFermions/blob/master/InteractionDependence/interactionDependence.png" width=300px>
 
-#### [EntropyVsParticlePartitionSize	(Figure 5)](https://github.com/DelMaestroGroup/PartEntFermions/tree/master/EntropyVsParticlePartitionSize)
+#### [EntropyVsParticlePartitionSize (Figure 5)](https://github.com/DelMaestroGroup/PartEntFermions/tree/master/EntropyVsParticlePartitionSize)
 
 <img src="https://github.com/DelMaestroGroup/PartEntFermions/blob/master/EntropyVsParticlePartitionSize/SvsN_choose_N.png" width=300px>
 
-#### [DegeneracyEffect	(Figure 6)](https://github.com/DelMaestroGroup/PartEntFermions/tree/master/DegeneracyEffect)
+#### [DegeneracyEffect (Figure 6)](https://github.com/DelMaestroGroup/PartEntFermions/tree/master/DegeneracyEffect)
 
 <img src="https://github.com/DelMaestroGroup/PartEntFermions/blob/master/DegeneracyEffect/degeneracyEffect.png?raw=true" width=300px>
