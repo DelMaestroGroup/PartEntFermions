@@ -14,9 +14,9 @@ This repository includes all data and plotting scripts to generate the figures i
 <img src="https://github.com/DelMaestroGroup/PartEntFermions/blob/master/PartitionSchematic/particle_partition.png" width=300px>
 
 
-#### [OneParticleEntanglementEntropies	(Figure 2)](https://github.com/DelMaestroGroup/PartEntFermions/tree/master/OneParticleEntanglementEntropies)
+#### [OneParticleEntanglementEntropies	(Figure 2)](https://github.com/DelMaestroGroup/PartEntFermions/tree/master/EntanglementEntropies)
 
-<img src="https://github.com/DelMaestroGroup/PartEntFermions/blob/master/OneParticleEntanglementEntropies/entropiesFigure.png" width=300px>
+<img src="https://github.com/DelMaestroGroup/PartEntFermions/blob/master/EntanglementEntropies/entanglementEntropies.png" width=300px>
 
 #### [FiniteSizeScaling	(Figure 3)](https://github.com/DelMaestroGroup/PartEntFermions/tree/master/FiniteSizeScaling)
 
