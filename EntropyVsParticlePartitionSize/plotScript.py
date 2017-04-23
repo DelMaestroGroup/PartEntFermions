@@ -9,7 +9,7 @@ from scipy.special import binom
 #Principal Plot
 
 #Replace the directory in the following line with the one in which your desired stylefile resides
-with plt.style.context('/Users/ecasiano/anaconda3/pkgs/matplotlib-1.5.3-np111py35_0/lib/python3.5/site-packages/matplotlib/style/IOP_large.mplstyle'):
+with plt.style.context('IOP_large.mplstyle'):
 
 
     #Load the data file
