@@ -106,4 +106,5 @@ with plt.style.context('/Users/ecasiano/anaconda3/pkgs/matplotlib-1.5.3-np111py3
     #Save the figure
     plt.savefig('entropiesFigure.pdf', transparent=False)
     plt.savefig('entropiesFigure.png', transparent=False)
+    plt.savefig('entropiesFigure.svg', transparent=False)
     plt.show()
