@@ -7,7 +7,7 @@ We investigate the scaling of the Rényi entanglement entropies for a particle b
 
 ### Description
 
-This repository includes all data and plotting scripts to generate the figures in https://arxiv.org/abs/1703.10587.  All data was generated via exact diagonalization https://github.com/DelMaestroGroup/tV_diagonalize
+This repository includes all data and plotting scripts to generate the figures in https://arxiv.org/abs/1703.10587.  All data was generated via exact diagonalization https://github.com/DelMaestroGroup/tV_diagonalize using a code forked from [MelkoCollective/BH_diagonalize](https://github.com/MelkoCollective/BH_diagonalize).
 
 #### [PartitionSchematic (Figure 1)](https://github.com/DelMaestroGroup/PartEntFermions/tree/master/PartitionSchematic)
 
