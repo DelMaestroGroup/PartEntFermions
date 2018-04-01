@@ -9,6 +9,10 @@ We investigate the scaling of the Rényi entanglement entropies for a particle b
 
 This repository includes all data and plotting scripts to generate the figures in [H. Barghathi, E. Casiano-Diaz and A. Del Maestro, J. Stat. Mech. 083108 (2017)](https://doi.org/10.1088/1742-5468/aa819a).  All data was generated via exact diagonalization https://github.com/DelMaestroGroup/tV_diagonalize using a code forked from [MelkoCollective/BH_diagonalize](https://github.com/MelkoCollective/BH_diagonalize).
 
+The creation of these materials was supported in part by the National Science Foundation under Award No. DMR-1553991.
+
+[<img width="100px" src="https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png">](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1553991)
+
 #### [PartitionSchematic (Figure 1)](https://github.com/DelMaestroGroup/PartEntFermions/tree/master/PartitionSchematic)
 
 <img src="https://github.com/DelMaestroGroup/PartEntFermions/blob/master/PartitionSchematic/particle_partition.png" width=300px>
